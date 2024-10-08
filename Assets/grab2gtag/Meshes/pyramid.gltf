@@ -1,0 +1,88 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Pyramid"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cone.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 12,
+            "max" : [
+                0.4330126941204071,
+                0.5,
+                0.2500000298023224
+            ],
+            "min" : [
+                -0.4330127239227295,
+                -0.5,
+                -0.5
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5123,
+            "count" : 12,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 144
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 288
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 312,
+            "uri" : "data:application/octet-stream;base64,AAAAAAAAAL8AAAC/AAAAAAAAAL8AAAC/AAAAAAAAAL8AAAC/17PdPgAAAL8BAIA+17PdPgAAAL8BAIA+17PdPgAAAL8BAIA+2LPdvgAAAL/9/38+2LPdvgAAAL/9/38+2LPdvgAAAL/9/38+AAAAAAAAAD8AAACAAAAAAAAAAD8AAACAAAAAAAAAAD8AAACAQBVXv0RbeD5EW/i+ohHFMgAAgL8AAACAQhVXP0NbeD5DW/i+YTyzs0ZbeD5EW3g/ohHFMgAAgL8AAACAQhVXP0NbeD5DW/i+QBVXv0RbeD5EW/i+YTyzs0ZbeD5EW3g/ohHFMgAAgL8AAACAQBVXv0RbeD5EW/i+YTyzs0ZbeD5EW3g/QhVXP0NbeD5DW/i+AgALAAUAAQAEAAgAAwAKAAcABgAJAAAA"
+        }
+    ]
+}
