@@ -84,7 +84,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - baseColorTexture:
-        m_Texture: {fileID: 2800000, guid: edd1366a351dd3449ada0bf260c534bd, type: 3}
+        m_Texture: {fileID: 2800000, guid: 96d801c98b74c904f96c46fe811401d0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - emissiveTexture:
